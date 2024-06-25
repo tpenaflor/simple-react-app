@@ -2,7 +2,7 @@
   "name": "simple-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://tpenaflor.github.io/simple-react-app",
+  "homepage": "https://tpenaflor.github.io/simple-react-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
